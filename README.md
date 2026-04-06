@@ -1,4 +1,4 @@
-# Automated Industrial Defect Detection System 🏭👁️
+# Automated Industrial Defect Detection System
 
 ## Project Overview
 This project simulates an automated quality control pipeline for manufacturing. I engineered a Convolutional Neural Network (CNN) using **TensorFlow** to inspect components and classify them as either structurally sound or defective (e.g., surface cracks) in real-time.
